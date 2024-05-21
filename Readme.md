@@ -1,0 +1,3 @@
+- get tiktok data with python
+- Build a data processing pipeline
+- create a streamlit dashboard
